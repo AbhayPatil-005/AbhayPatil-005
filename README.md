@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abhay Patil
+# 👋 Hi, I'm Abhay S Patil
 
 🎓 2023 Mechanical Engineering Graduate  
 💻 Aspiring Frontend Developer | Web Technology Enthusiast  
